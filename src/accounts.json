@@ -1,0 +1,6 @@
+{
+    "testAccount": {
+        "username": "some@email.com",
+        "password": "somepassword"
+    }
+}
