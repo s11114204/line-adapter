@@ -10,7 +10,7 @@ At the current moment, only receiving text messages is implemented.
 **Preparing environment**
 
 1) install [nodejs](https://nodejs.org/en)
-2) open terminal in the LINEAdapter module and run `npm i`
+2) open terminal in the LINEAdapter folder and run `npm i`
 3) install [LINE](https://chrome.google.com/webstore/detail/line/ophjlpahpchlmihnnnihgmmeilfjmjjc) Chrome extension
 
 
